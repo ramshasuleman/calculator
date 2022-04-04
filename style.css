@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+    background-color: aqua;
+    outline: none;
+}
+table{
+   margin: auto;
+    box-sizing: border-box;
+   
+}
+input{
+    font-size: 30px;
+    height: 50px;
+    background-color: rgb(13, 100, 47);
+    box-sizing: border-box;
+    
+}
+button{
+    font-size: 32px;
+    background-color:blueviolet;
+    width: 93px;
+    height: 47px;
+}
